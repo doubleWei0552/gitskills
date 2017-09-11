@@ -1,0 +1,26 @@
+{
+  "name": "gitskills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doubleWeiIMD/gitskills.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doubleWeiIMD/gitskills/issues"
+  },
+  "homepage": "https://github.com/doubleWeiIMD/gitskills#readme",
+  "dependencies": {
+    "art-template": "^4.12.1",
+    "body-parser": "^1.18.0",
+    "express": "^4.15.4",
+    "express-art-template": "^1.0.0",
+    "formidable": "^1.1.1"
+  }
+}
